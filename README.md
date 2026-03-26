@@ -9,13 +9,15 @@
 <p>
 Soy estudiante de Ingeniería en Sistemas al que le gusta aprender haciendo. Me interesa el desarrollo de software, especialmente el desarrollo móvil, y disfruto construir proyectos que realmente funcionen y tengan un uso práctico.
 
-También me llama la atención el área de redes, por lo que busco entender cómo se conectan tanto el software como la infraestructura detrás. Constantemente estoy probando cosas nuevas y mejorando a través de los proyectos que desarrollo.
+También me llama la atención el área de redes, por lo que busco entender cómo se conectan tanto el software como la infraestructura detrás. Fuera de eso, disfruto aprender cosas nuevas, trabajar con electricidad y jugar videojuegos :).
 </p>
 
 <ul>
   <li>📱 Interesado en desarrollo móvil</li>
+  <li>💻 Me gusta construir proyectos completos</li>
   <li>🌐 Curioso por el funcionamiento de las redes</li>
-  <li>🚀 Aprendo principalmente haciendo</li>
+  <li>⚡ Interés en electricidad y cosas prácticas</li>
+  <li>🎮 Videojuegos y comunidad</li>
 </ul>
 <h3>🛠️ Tech Stack</h3>
 
