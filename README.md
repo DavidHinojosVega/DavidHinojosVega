@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hola soy David Vega</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Networking+(CCNA)+in+progress;Backend+Developer;Neo+Smash+Organizer;Always+learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Developer;Fullstack+Developer+(Frontend+%2B+Backend);Networking+(CCNA);Building+real+world+projects&center=true&width=500&height=45">
 </p>
 
 <hr>
-
 
 <h3>Sobre mi</h3>
 
@@ -30,6 +29,8 @@ He trabajado en proyectos como herramientas para torneos, sistemas web y aplicac
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -37,7 +38,7 @@ He trabajado en proyectos como herramientas para torneos, sistemas web y aplicac
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
@@ -53,7 +54,7 @@ He trabajado en proyectos como herramientas para torneos, sistemas web y aplicac
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
 <hr>
-
