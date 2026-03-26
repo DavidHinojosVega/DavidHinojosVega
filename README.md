@@ -1,28 +1,22 @@
-<h1 align="center">👋 Hola soy David Vega</h1>
+<h1 align="center">👋 Hola soy David Hinojos Vega</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Developer;Fullstack+Developer+(Frontend+%2B+Backend);Networking+(CCNA);Building+real+world+projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Developer+(React+Native+%2F+Swift);Fullstack+Developer+(Frontend+%2B+Backend);Networking+(CCNA);Building+real+world+projects&center=true&width=520&height=45">
 </p>
-
-<hr>
 
 <h3>Sobre mi</h3>
 
 <p>
-Soy estudiante de Ingeniería en Sistemas con enfoque en redes y desarrollo de software. Me interesa construir soluciones prácticas que conecten el mundo del desarrollo con el networking.
+Soy estudiante de Ingeniería en Sistemas al que le gusta aprender haciendo. Me interesa el desarrollo de software, especialmente el desarrollo móvil, y disfruto construir proyectos que realmente funcionen y tengan un uso práctico.
 
-He trabajado en proyectos como herramientas para torneos, sistemas web y aplicaciones, además de organizar eventos competitivos donde aplico lógica, tecnología y gestión.
+También me llama la atención el área de redes, por lo que busco entender cómo se conectan tanto el software como la infraestructura detrás. Constantemente estoy probando cosas nuevas y mejorando a través de los proyectos que desarrollo.
 </p>
 
 <ul>
-  <li>🚀 Enfocado en <b>Networking (CCNA)</b> y backend</li>
-  <li>🌐 Interesado en desarrollo web y aplicaciones</li>
-  <li>🔍 En constante aprendizaje con proyectos reales</li>
-  <li>🎮 Organizador de torneos de <b>Neo Smash</b></li>
+  <li>📱 Interesado en desarrollo móvil</li>
+  <li>🌐 Curioso por el funcionamiento de las redes</li>
+  <li>🚀 Aprendo principalmente haciendo</li>
 </ul>
-
-<br>
-
 <h3>🛠️ Tech Stack</h3>
 
 <p><b>💻 Lenguajes</b></p>
